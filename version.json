@@ -1,7 +1,7 @@
 {
   "version": "beta-0.0.2",
   "version_code": 2,
-  "release_notes": "\u2022 Inicio de sesion oficial con Google\n\u2022 Firebase en la nube por defecto\n\u2022 Version dinamica en ajustes",
+  "release_notes": "\u2022 Actualizaci\u00f3n oficial beta-0.0.2\n\u2022 Sincronizaci\u00f3n en la nube con Firebase\n\u2022 Juego en pareja en tiempo real",
   "download_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.0.2/KittyPair.apk",
   "html_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/tag/beta-0.0.2"
 }
