@@ -1,8 +1,8 @@
 {
-  "version": "beta-0.2.5",
-  "version_code": 205,
-  "release_notes": "\u2022 Actualizaci\u00f3n oficial beta-0.2.5\n\u2022 Sincronizaci\u00f3n en la nube con Firebase\n\u2022 Actualizaci\u00f3n directa dentro del juego sin navegador",
-  "download_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.2.5/KittyPair.apk",
-  "pck_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.2.5/KittyPair.pck",
-  "html_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/tag/beta-0.2.5"
+  "version": "beta-0.2.6",
+  "version_code": 206,
+  "release_notes": "\u2022 Actualizaci\u00f3n oficial beta-0.2.6\n\u2022 Sincronizaci\u00f3n en la nube con Firebase\n\u2022 Actualizaci\u00f3n directa dentro del juego sin navegador",
+  "download_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.2.6/KittyPair.apk",
+  "pck_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.2.6/KittyPair.pck",
+  "html_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/tag/beta-0.2.6"
 }
