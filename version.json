@@ -1,8 +1,8 @@
 {
-  "version": "beta-0.4.9",
-  "version_code": 409,
-  "release_notes": "\u2022 Actualizaci\u00f3n oficial beta-0.4.9\n\u2022 Nueva animaci\u00f3n de caminata felina con pasos en diagonal\n\u2022 Mascota vectorial multicapa sin l\u00edneas divisorias (Straight Alpha)\n\u2022 Sincronizaci\u00f3n en la nube con Firebase",
-  "download_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.4.9/KittyPair.apk",
-  "pck_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.4.9/KittyPair.pck",
-  "html_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/tag/beta-0.4.9"
+  "version": "beta-0.5.0",
+  "version_code": 500,
+  "release_notes": "\u2022 Actualizaci\u00f3n oficial beta-0.5.0\n\u2022 Nueva animaci\u00f3n de caminata felina con pasos en diagonal\n\u2022 Mascota vectorial multicapa sin l\u00edneas divisorias (Straight Alpha)\n\u2022 Sincronizaci\u00f3n en la nube con Firebase",
+  "download_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.5.0/KittyPair.apk",
+  "pck_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.5.0/KittyPair.pck",
+  "html_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/tag/beta-0.5.0"
 }
