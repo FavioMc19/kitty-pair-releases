@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "host": "190.139.151.143",
+  "port": 8443,
+  "tls": false,
+  "ws_path": "/ws",
+  "api_prefix": "",
+  "google_web_client_id": "885155054050-ppsn8au7nv47ompdmf05c9rao1ek7qaj.apps.googleusercontent.com",
+  "cert_sha256": "",
+  "min_client_code": 1,
+  "maintenance": false,
+  "maintenance_msg": "Servidor en mantenimiento",
+  "updated_at": 1794061961
+}
