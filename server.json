@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "host": "190.139.151.143",
+  "lan_host": "192.168.1.7",
   "port": 8443,
   "tls": false,
   "ws_path": "/ws",
@@ -10,5 +11,5 @@
   "min_client_code": 1,
   "maintenance": false,
   "maintenance_msg": "Servidor en mantenimiento",
-  "updated_at": 1794061961
+  "updated_at": 1794063567
 }
