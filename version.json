@@ -1,8 +1,8 @@
 {
-  "version": "beta-0.6.2",
-  "version_code": 602,
-  "release_notes": "\u2022 Actualizaci\u00f3n oficial beta-0.6.2\n\u2022 Servidor autoritativo Java + PostgreSQL en tiempo real\n\u2022 Inicio de sesi\u00f3n nativo con cuentas de Google en Android\n\u2022 Modo Pr\u00e1ctica sin conexi\u00f3n para los 32 minijuegos Arcade",
-  "download_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.6.2/KittyPair.apk",
-  "pck_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.6.2/KittyPair.pck",
-  "html_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/tag/beta-0.6.2"
+  "version": "beta-0.6.3",
+  "version_code": 603,
+  "release_notes": "\u2022 Actualizaci\u00f3n oficial beta-0.6.3\n\u2022 Servidor autoritativo Java + PostgreSQL en tiempo real\n\u2022 Inicio de sesi\u00f3n nativo con cuentas de Google en Android\n\u2022 Modo Pr\u00e1ctica sin conexi\u00f3n para los 32 minijuegos Arcade",
+  "download_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.6.3/KittyPair.apk",
+  "pck_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/download/beta-0.6.3/KittyPair.pck",
+  "html_url": "https://github.com/FavioMc19/kitty-pair-releases/releases/tag/beta-0.6.3"
 }
